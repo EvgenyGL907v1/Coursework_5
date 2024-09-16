@@ -1,0 +1,51 @@
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\ReferencesMenus.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\ReferencesMenus.pdb
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\DatabaseManager.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\DLLsMenu.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\MenuInterface.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\PresenterContext.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\System.Data.SQLite.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\DatabaseManager.pdb
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\MenuInterface.pdb
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\PresenterContext.pdb
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\DLLsMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\bin\Debug\System.Data.SQLite.xml
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.csproj.AssemblyReference.cache
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.csproj.CoreCompileInputs.cache
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.csproj.CopyComplete
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\ReferencesMenus.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\ReferencesMenus.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.csproj.AssemblyReference.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.csproj.CopyComplete
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\ReferencesMenus.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\ReferencesMenus.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ReferencesMenus\obj\Debug\ReferencesMenus.pdb

@@ -1,0 +1,156 @@
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\ShippingCompanyManager.exe.config
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\ShippingCompanyManager.exe
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\ShippingCompanyManager.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Buffers.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Data.SQLite.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Memory.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Numerics.Vectors.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Buffers.xml
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Data.SQLite.xml
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Memory.xml
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Numerics.Vectors.xml
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VS_Projects\ShippingCompanyManager\obj\Debug\ShippingCompanyManager.csproj.AssemblyReference.cache
+D:\VS_Projects\ShippingCompanyManager\obj\Debug\ShippingCompanyManager.Properties.Resources.resources
+D:\VS_Projects\ShippingCompanyManager\obj\Debug\ShippingCompanyManager.csproj.GenerateResource.cache
+D:\VS_Projects\ShippingCompanyManager\obj\Debug\ShippingCompanyManager.csproj.CoreCompileInputs.cache
+D:\VS_Projects\ShippingCompanyManager\obj\Debug\ShippingCompanyManager.csproj.CopyComplete
+D:\VS_Projects\ShippingCompanyManager\obj\Debug\ShippingCompanyManager.exe
+D:\VS_Projects\ShippingCompanyManager\obj\Debug\ShippingCompanyManager.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\DatabaseManager.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\DatabaseManager.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\PresenterContext.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\PresenterContext.pdb
+D:\VS_Projects\ShippingCompanyManager\obj\Debug\ShippingCompanyManager.LoginForm.resources
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\MenuInterface.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\MenuInterface.pdb
+D:\VS_Projects\ShippingCompanyManager\obj\Debug\ShippingCompanyManager.MainForm.resources
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\DLLsMenu.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\DLLsMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\AboutProgram.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\AccessMenu.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\AboutProgram.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\AccessMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\ReferencesMenus.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\ReferencesMenus.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\RoutersMenu.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\RoutersMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\ClientsMenu.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\VesselsMenu.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\ClientsMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\VesselsMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\ConsignmentsMenu.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\ConsignmentsMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\PasswordChangeMenu.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\PasswordChangeMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\DataExport.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\DataExport.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\VesselsDocumentMenu.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\VesselsDocumentMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\CargoDocumentMenu.dll
+D:\VS_Projects\ShippingCompanyManager\bin\Debug\CargoDocumentMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ShippingCompanyManager.exe.config
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ShippingCompanyManager.exe
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ShippingCompanyManager.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\AboutProgram.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\AccessMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\CargoDocumentMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ClientsMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ConsignmentsMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\PasswordChangeMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ReferencesMenus.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\RoutersMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Buffers.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Memory.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Numerics.Vectors.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\VesselsDocumentMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\VesselsMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DataExport.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\AboutProgram.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\AccessMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\CargoDocumentMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ClientsMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ConsignmentsMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\PasswordChangeMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ReferencesMenus.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\RoutersMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\VesselsDocumentMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\VesselsMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Buffers.xml
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Memory.xml
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Numerics.Vectors.xml
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DataExport.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.csproj.AssemblyReference.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.LoginForm.resources
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.MainForm.resources
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.Properties.Resources.resources
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.csproj.GenerateResource.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.csproj.CopyComplete
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.exe
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ShippingCompanyManager.exe.config
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ShippingCompanyManager.exe
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ShippingCompanyManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\AboutProgram.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\AccessMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\CargoDocumentMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ClientsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ConsignmentsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\PasswordChangeMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ReferencesMenus.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\RoutersMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Buffers.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Memory.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Numerics.Vectors.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\VesselsDocumentMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\VesselsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DataExport.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\AboutProgram.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\AccessMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\CargoDocumentMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ClientsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ConsignmentsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\PasswordChangeMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\ReferencesMenus.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\RoutersMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\VesselsDocumentMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\VesselsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Buffers.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Memory.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Numerics.Vectors.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\bin\Debug\DataExport.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.LoginForm.resources
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.MainForm.resources
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.Properties.Resources.resources
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.csproj.GenerateResource.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.exe
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\obj\Debug\ShippingCompanyManager.pdb

@@ -1,0 +1,39 @@
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\bin\Debug\MenuInterface.dll
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\bin\Debug\MenuInterface.pdb
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\bin\Debug\DatabaseManager.dll
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\bin\Debug\PresenterContext.dll
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\bin\Debug\System.Data.SQLite.dll
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\bin\Debug\DatabaseManager.pdb
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\bin\Debug\PresenterContext.pdb
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\bin\Debug\System.Data.SQLite.xml
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\obj\Debug\MenuInterface.csproj.AssemblyReference.cache
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\obj\Debug\MenuInterface.csproj.CoreCompileInputs.cache
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\obj\Debug\MenuInterface.csproj.CopyComplete
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\obj\Debug\MenuInterface.dll
+D:\VS_Projects\ShippingCompanyManager\MenuInterface\obj\Debug\MenuInterface.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.csproj.AssemblyReference.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.csproj.CopyComplete
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\MenuInterface\obj\Debug\MenuInterface.pdb

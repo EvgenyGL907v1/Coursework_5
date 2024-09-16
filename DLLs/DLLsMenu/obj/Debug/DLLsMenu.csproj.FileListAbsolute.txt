@@ -1,0 +1,15 @@
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\DLLsMenu.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\DLLsMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\DatabaseManager.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\MenuInterface.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\PresenterContext.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\System.Data.SQLite.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\DatabaseManager.pdb
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\MenuInterface.pdb
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\PresenterContext.pdb
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\bin\Debug\System.Data.SQLite.xml
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\obj\Debug\DLLsMenu.csproj.AssemblyReference.cache
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\obj\Debug\DLLsMenu.csproj.CoreCompileInputs.cache
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\obj\Debug\DLLsMenu.csproj.CopyComplete
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\obj\Debug\DLLsMenu.dll
+D:\VS_Projects\ShippingCompanyManager\DLLs\DLLsMenu\obj\Debug\DLLsMenu.pdb

@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2E3894E2-A9AD-486C-8991-A141C97DAE35}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PresenterContext</RootNamespace>
+    <AssemblyName>PresenterContext</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Examples\ChoiceFormExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examples\ChoiceFormExample.Designer.cs">
+      <DependentUpon>ChoiceFormExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examples\ElementFormExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examples\ElementFormExample.Designer.cs">
+      <DependentUpon>ElementFormExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examples\ElementsListFormExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examples\ElementsListFormExample.Designer.cs">
+      <DependentUpon>ElementsListFormExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examples\MessageFormExample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examples\MessageFormExample.Designer.cs">
+      <DependentUpon>MessageFormExample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormsCopy.cs" />
+    <Compile Include="MessageCaller.cs" />
+    <Compile Include="Presenter\MessageFormPresenter.cs" />
+    <Compile Include="Presenter\ChoiceFormPresenter.cs" />
+    <Compile Include="Presenter\ElementFormPresenter.cs" />
+    <Compile Include="Behavior\IElementForm.cs" />
+    <Compile Include="Behavior\IListForm.cs" />
+    <Compile Include="Behavior\IListFormView.cs" />
+    <Compile Include="Behavior\IChoiseForm.cs" />
+    <Compile Include="Presenter\ListFormPresenter.cs" />
+    <Compile Include="Behavior\PresenterBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GridViewPresenter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DatabaseManager\DatabaseManager.csproj">
+      <Project>{f0a2a406-af9a-4aba-bbc1-220f3d15fbe3}</Project>
+      <Name>DatabaseManager</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Examples\ChoiceFormExample.resx">
+      <DependentUpon>ChoiceFormExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examples\ElementFormExample.resx">
+      <DependentUpon>ElementFormExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examples\ElementsListFormExample.resx">
+      <DependentUpon>ElementsListFormExample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examples\MessageFormExample.resx">
+      <DependentUpon>MessageFormExample.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

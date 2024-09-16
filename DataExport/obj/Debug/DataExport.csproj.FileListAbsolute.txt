@@ -1,0 +1,54 @@
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\DataExport.dll
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\DataExport.pdb
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\DatabaseManager.dll
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\DLLsMenu.dll
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\MenuInterface.dll
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\PresenterContext.dll
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\System.Data.SQLite.dll
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\DatabaseManager.pdb
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\DLLsMenu.pdb
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\MenuInterface.pdb
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\PresenterContext.pdb
+D:\VS_Projects\ShippingCompanyManager\DataExport\bin\Debug\System.Data.SQLite.xml
+D:\VS_Projects\ShippingCompanyManager\DataExport\obj\Debug\DataExport.csproj.AssemblyReference.cache
+D:\VS_Projects\ShippingCompanyManager\DataExport\obj\Debug\DataExport.csproj.ResolveComReference.cache
+D:\VS_Projects\ShippingCompanyManager\DataExport\obj\Debug\DataExport.csproj.CoreCompileInputs.cache
+D:\VS_Projects\ShippingCompanyManager\DataExport\obj\Debug\DataExport.csproj.CopyComplete
+D:\VS_Projects\ShippingCompanyManager\DataExport\obj\Debug\DataExport.dll
+D:\VS_Projects\ShippingCompanyManager\DataExport\obj\Debug\DataExport.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DataExport.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DataExport.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.csproj.AssemblyReference.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.csproj.ResolveComReference.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.csproj.CopyComplete
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.dll
+D:\!lessons_archive\3.1_2023\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DataExport.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DataExport.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.csproj.ResolveComReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DataExport\obj\Debug\DataExport.pdb
