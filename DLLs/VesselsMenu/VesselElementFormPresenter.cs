@@ -4,6 +4,7 @@ using PresenterContext;
 using System;
 using System.Windows.Forms;
 using DataExport;
+using System.Linq;
 
 namespace VesselsMenu
 {
@@ -113,69 +114,107 @@ namespace VesselsMenu
 
 		public override void CreateElement()
 		{
-			base.CreateElement();
-
-			if (_selectedClassId == -1)
-				throw new Exception("Не выбран класс");
-
-			if (_selectedTypeId == -1)
-				throw new Exception("Не выбран тип");
-
-			if (DateTimePickers["Дата постройки"].Value == null)
-				throw new Exception("Дата не выбрана");
-
-			VesselData vesselData = new VesselData()
+			try
 			{
-				Name = TextBoxes["Название"].Text,
-				RegNumber = TextBoxes["Номер"].Text,
+                base.CreateElement();
 
-				CreateDate = DateTimePickers["Дата постройки"].Value.ToString("yyyy-MM-dd"),
-				CaptainName = TextBoxes["ФИО Капитана"].Text,
+                if (_selectedClassId == -1)
+                    throw new Exception("Не выбран класс");
 
-				TypeId = _selectedTypeId,
-				ClassId = _selectedClassId,
+                if (_selectedTypeId == -1)
+                    throw new Exception("Не выбран тип");
 
-				Image = _image
-			};
+                if (DateTimePickers["Дата постройки"].Value == null)
+                    throw new Exception("Дата не выбрана");
 
-			_registedDataManager.Add(vesselData);
-			MessageCaller.CallInfomationMessage("Информация о судне успешно записана");
-			Form.Close();
+                VesselData vesselData = new VesselData()
+                {
+                    Name = TextBoxes["Название"].Text,
+                    RegNumber = TextBoxes["Номер"].Text,
+
+                    CreateDate = DateTimePickers["Дата постройки"].Value.ToString("yyyy-MM-dd"),
+                    CaptainName = TextBoxes["ФИО Капитана"].Text,
+
+                    TypeId = _selectedTypeId,
+                    ClassId = _selectedClassId,
+
+                    Image = _image
+                };
+
+				if(vesselData.Name == "")
+                    throw new Exception("Имя судна не может быть пустым");
+
+                if (vesselData.RegNumber.Length != 7 || !vesselData.RegNumber.All(char.IsDigit))
+                    throw new Exception("Идентификационный номер судна должен состоять из 7 цифр");
+
+                if (vesselData.TypeId <= 0)
+                    throw new Exception("Тип судна не выбран");
+
+                if (vesselData.ClassId <= 0)
+                    throw new Exception("Класс судна не выбран");
+
+                _registedDataManager.Add(vesselData);
+                MessageCaller.CallInfomationMessage("Информация о судне успешно записана");
+                Form.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageCaller.CallErrorMessage(ex.Message);
+            }
 		}
 
 		public override void EditElement()
 		{
-			base.EditElement();
-
-			if (_selectedClassId == -1)
-				throw new Exception("Не выбран класс");
-
-			if (_selectedTypeId == -1)
-				throw new Exception("Не выбран тип");
-
-			if (DateTimePickers["Дата постройки"].Value == null)
-				throw new Exception("Дата не выбрана");
-
-			VesselData vesselData = new VesselData()
+			try
 			{
-				VesselId = CurrentElementId,
+                base.EditElement();
 
-				Name = TextBoxes["Название"].Text,
-				RegNumber = TextBoxes["Номер"].Text,
+                if (_selectedClassId == -1)
+                    throw new Exception("Не выбран класс");
 
-				CreateDate = DateTimePickers["Дата постройки"].Value.ToString("yyyy-MM-dd"),
-				CaptainName = TextBoxes["ФИО Капитана"].Text,
+                if (_selectedTypeId == -1)
+                    throw new Exception("Не выбран тип");
 
-				TypeId = _selectedTypeId,
-				ClassId = _selectedClassId,
+                if (DateTimePickers["Дата постройки"].Value == null)
+                    throw new Exception("Дата не выбрана");
 
-				Image = _image
-			};
+                VesselData vesselData = new VesselData()
+                {
+                    VesselId = CurrentElementId,
 
-			_registedDataManager.Edit(vesselData);
-			MessageCaller.CallInfomationMessage("Информация о судне успешно изменена");
-			Form.Close();
-		}
+                    Name = TextBoxes["Название"].Text,
+                    RegNumber = TextBoxes["Номер"].Text,
 
-	}
+                    CreateDate = DateTimePickers["Дата постройки"].Value.ToString("yyyy-MM-dd"),
+                    CaptainName = TextBoxes["ФИО Капитана"].Text,
+
+                    TypeId = _selectedTypeId,
+                    ClassId = _selectedClassId,
+
+                    Image = _image
+                };
+
+                if (vesselData.Name == "")
+                    throw new Exception("Имя судна не может быть пустым");
+
+                if (vesselData.RegNumber.Length != 7 || !vesselData.RegNumber.All(char.IsDigit))
+                    throw new Exception("Идентификационный номер судна должен состоять из 7 цифр");
+
+                if (vesselData.TypeId <= 0)
+                    throw new Exception("Тип судна не выбран");
+
+                if (vesselData.ClassId <= 0)
+                    throw new Exception("Класс судна не выбран");
+
+                _registedDataManager.Edit(vesselData);
+                MessageCaller.CallInfomationMessage("Информация о судне успешно изменена");
+                Form.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageCaller.CallErrorMessage(ex.Message);
+            }
+        }
+
+    }
 }

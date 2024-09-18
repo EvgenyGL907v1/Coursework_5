@@ -27,12 +27,17 @@ namespace ReferencesMenus
 			CreateButton("Изменить", EditElementEvent);
 		}
 
-		public override void CreateElement()
+		public override void CreateElement()//!!
 		{
 			try
 			{
 				base.CreateElement();
-				_addEvent.Invoke(TextBoxes["Название"].Text);
+
+				string enterText = TextBoxes["Название"].Text;
+				if(enterText == "")
+                    throw new Exception("Название не может быть пустым");
+
+                _addEvent.Invoke(enterText);
 				MessageCaller.CallInfomationMessage("Успешно добавлено");
 				Form.Close();
 			}
@@ -47,7 +52,12 @@ namespace ReferencesMenus
 			try
 			{
 				base.EditElement();
-				_editEvent.Invoke(CurrentElementId, TextBoxes["Название"].Text);
+
+                string enterText = TextBoxes["Название"].Text;
+                if (enterText == "")
+                    throw new Exception("Название не может быть пустым");
+
+                _editEvent.Invoke(CurrentElementId, enterText);
 				MessageCaller.CallInfomationMessage("Редактирование выполнено успешно");
 				Form.Close();
 			}

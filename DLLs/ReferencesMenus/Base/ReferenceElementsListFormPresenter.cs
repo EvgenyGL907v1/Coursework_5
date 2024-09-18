@@ -103,7 +103,7 @@ namespace ReferencesMenus
 			}
 		}
 
-		public override void Delete()//!
+		public override void Delete()
 		{
             if (MessageBox.Show($"Вы уверены, что хотите удалить запись?", "Подтверждение удаления", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
 			{

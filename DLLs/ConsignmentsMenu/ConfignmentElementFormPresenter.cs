@@ -37,11 +37,11 @@ namespace ConsignmentsMenu
 			CreateButton("Удалить груз", DeleteCargo);
 
 			CreateDateTimePicker("Отправка");
-			CreateComboBox("Порт отп.", SelectSenderPort);
+			CreateComboBox("Порт отправления", SelectSenderPort);
 			CreateComboBox("Отправитель", SelectSender);
 
 			CreateDateTimePicker("Прибытие");
-			CreateComboBox("Порт пр.", SelectRecipientPort);
+			CreateComboBox("Порт прибытия", SelectRecipientPort);
 			CreateComboBox("Получатель", SelectRecipient);
 
 			CreateTextBox("Номер");
@@ -93,7 +93,7 @@ namespace ConsignmentsMenu
 			if (portChoice.ShowDialog() == DialogResult.OK)
 			{
 				_senderPort = portChoice.SelectedPort;
-				var menuBox = ComboBoxes["Порт отп."];
+				var menuBox = ComboBoxes["Порт отправления"];
 
 				menuBox.Items.Clear();
 				menuBox.Items.Add(_senderPort.Item2);
@@ -106,7 +106,7 @@ namespace ConsignmentsMenu
 			if (portChoice.ShowDialog() == DialogResult.OK)
 			{
 				_recipientPort = portChoice.SelectedPort;
-				var menuBox = ComboBoxes["Порт пр."];
+				var menuBox = ComboBoxes["Порт прибытия"];
 
 				menuBox.Items.Clear();
 				menuBox.Items.Add(_recipientPort.Item2);
@@ -120,7 +120,7 @@ namespace ConsignmentsMenu
 			{
 				new TableColumn("Id", "#", TableColumnType.TEXT),
 				new TableColumn("Cargo", "Груз", TableColumnType.TEXT),
-				new TableColumn("Count", "Ед. изм", TableColumnType.TEXT),
+				new TableColumn("Count", "Ед. изм.", TableColumnType.TEXT),
 				new TableColumn("Count", "Количество", TableColumnType.TEXT),
 				new TableColumn("SCount", "Страховка", TableColumnType.TEXT),
 			};
@@ -186,12 +186,12 @@ namespace ConsignmentsMenu
                 var clientsList = _dataManager.GetClientsList();
 
                 _senderPort = portsList.Find(c => c.Item1 == config.SendPortId);
-                ComboBoxes["Порт отп."].Items.Add(_senderPort.Item2);
-                ComboBoxes["Порт отп."].SelectedIndex = 0;
+                ComboBoxes["Порт отправления"].Items.Add(_senderPort.Item2);
+                ComboBoxes["Порт отправления"].SelectedIndex = 0;
 
                 _recipientPort = portsList.Find(c => c.Item1 == config.ReceivPortId);
-                ComboBoxes["Порт пр."].Items.Add(_recipientPort.Item2);
-                ComboBoxes["Порт пр."].SelectedIndex = 0;
+                ComboBoxes["Порт прибытия"].Items.Add(_recipientPort.Item2);
+                ComboBoxes["Порт прибытия"].SelectedIndex = 0;
 
                 var sender = (clientsList.Find(c => c.ClientId == config.SendClientId));
                 ComboBoxes["Отправитель"].Items.Add(sender.Name);
@@ -241,10 +241,10 @@ namespace ConsignmentsMenu
                     });
 				}
 
-				if (ComboBoxes["Порт отп."].SelectedIndex == -1)
+				if (ComboBoxes["Порт отправления"].SelectedIndex == -1)
 					throw new Exception("Порт отправки не выбран");
 
-				if(ComboBoxes["Порт пр."].SelectedIndex == -1)
+				if(ComboBoxes["Порт прибытия"].SelectedIndex == -1)
 					throw new Exception("Порт прибытия не выбран");
 
 				if (ComboBoxes["Отправитель"].SelectedIndex == -1)
@@ -266,7 +266,10 @@ namespace ConsignmentsMenu
 					ReceivClientId = _recipient.Item1,
 				};
 
-				_dataManager.AddCargoConsignment(cargoConsignment, cargos);
+				if(cargoConsignment.CustomNumber=="")
+                    throw new Exception("номер не может быть пустым");
+
+                _dataManager.AddCargoConsignment(cargoConsignment, cargos);
 				MessageCaller.CallInfomationMessage("Информации о партии успешно доабвлена");
 				Form.Close();
                 TableUpdate();
@@ -305,10 +308,10 @@ namespace ConsignmentsMenu
                     });
                 }
 
-				if (ComboBoxes["Порт отп."].SelectedIndex == -1)
+				if (ComboBoxes["Порт отправления"].SelectedIndex == -1)
 					throw new Exception("Порт отправки не выбран");
 
-				if (ComboBoxes["Порт пр."].SelectedIndex == -1)
+				if (ComboBoxes["Порт прибытия"].SelectedIndex == -1)
 					throw new Exception("Порт прибытия не выбран");
 
 				if (ComboBoxes["Отправитель"].SelectedIndex == -1)
@@ -332,7 +335,10 @@ namespace ConsignmentsMenu
 					ConsignmentId = config.ConsignmentId,
                 };
 
-				_dataManager.EditCargoConsignment(cargoConsignment, cargos);
+                if (cargoConsignment.CustomNumber == "")
+                    throw new Exception("номер не может быть пустым");
+
+                _dataManager.EditCargoConsignment(cargoConsignment, cargos);
 				MessageCaller.CallInfomationMessage("Информации о партии успешно изменена");
 				Form.Close();
                 TableUpdate();

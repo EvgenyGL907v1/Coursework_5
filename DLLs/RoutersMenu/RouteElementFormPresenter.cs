@@ -142,7 +142,18 @@ namespace RoutersMenu
 			try
 			{
 				base.CreateElement();
-				_dataManager.AddRout(TextBoxes["Название"].Text, _ports.Select(p => p.Item1).ToList(), _vesselData);
+
+				string nameRoute = TextBoxes["Название"].Text;
+				if(nameRoute == "")
+                    throw new Exception("Имя маршрута не может быть пустым");
+
+                if(_vesselData.VesselId == 0)
+                    throw new Exception("Судно не выбрано");
+
+                if(_ports.Count < 2)
+                    throw new Exception("Минимальное количество портов для построения маршрута: 2");
+
+                _dataManager.AddRout(nameRoute, _ports.Select(p => p.Item1).ToList(), _vesselData);
 				MessageCaller.CallInfomationMessage("Маршрут успешно добавлен");
 
 				Form.Close();
@@ -158,7 +169,18 @@ namespace RoutersMenu
 			try
 			{
 				base.EditElement();
-				_dataManager.EditRout(TextBoxes["Название"].Text, CurrentElementId, _ports.Select(p => p.Item1).ToList(), _vesselData);
+
+                string nameRoute = TextBoxes["Название"].Text;
+                if (nameRoute == "")
+                    throw new Exception("Имя маршрута не может быть пустым");
+
+                if (_vesselData.VesselId == 0)
+                    throw new Exception("Судно не выбрано");
+
+                if (_ports.Count < 2)
+                    throw new Exception("Минимальное количество портов для построения маршрута: 2");
+
+                _dataManager.EditRout(nameRoute, CurrentElementId, _ports.Select(p => p.Item1).ToList(), _vesselData);
 
 				MessageCaller.CallInfomationMessage("Маршрут успешно изменен");
 				Form.Close();

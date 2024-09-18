@@ -3,6 +3,7 @@ using Menus;
 using PresenterContext;
 using System;
 using System.Windows.Forms;
+using System.Linq;
 
 namespace ClientsMenu
 {
@@ -78,7 +79,16 @@ namespace ClientsMenu
 					BankId = _selectedBankId,
 				};
 
-				_registersDataManager.AddClient(clientData);
+                if (clientData.Name == "")
+                    throw new Exception("Имя не может быть пустым");
+
+                if (clientData.BankId <= 0)
+                    throw new Exception("Банк не выбран");
+
+                if (clientData.TaxNumber.Length != 10 || !clientData.TaxNumber.All(char.IsDigit))
+                    throw new Exception("ИНН юридического лица должен состоять из 10 цифр");
+
+                _registersDataManager.AddClient(clientData);
 				MessageCaller.CallInfomationMessage("Добавлен новый клиент");
 				Form.Close();
 
@@ -106,7 +116,16 @@ namespace ClientsMenu
 					BankId = _selectedBankId,
 				};
 
-				_registersDataManager.AddClient(clientData);
+                if (clientData.Name == "")
+                    throw new Exception("Имя не может быть пустым");
+
+                if (clientData.BankId <= 0)
+                    throw new Exception("Банк не выбран");
+
+                if (clientData.TaxNumber.Length != 10 || !clientData.TaxNumber.All(char.IsDigit))
+                    throw new Exception("ИНН юридического лица должен состоять из 10 цифр");
+
+                _registersDataManager.AddClient(clientData);
 				MessageCaller.CallInfomationMessage("Информация изменена");
 				Form.Close();
 			}

@@ -20,7 +20,7 @@ namespace ConsignmentsMenu
 			List<TableColumn> columns = new List<TableColumn>()
 			{
 				new TableColumn("Id", "#", TableColumnType.TEXT),
-				new TableColumn("Sender", "Отправитель", TableColumnType.TEXT),
+				new TableColumn("Sender", "Отправление", TableColumnType.TEXT),
 				new TableColumn("Прибытие", "Прибытие", TableColumnType.TEXT),
 			};
 

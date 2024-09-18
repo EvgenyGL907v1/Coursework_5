@@ -20,10 +20,10 @@ namespace ConsignmentsMenu
 		public CargoInfoCreatorFormPresenter() : base(new ElementFormExample())
 		{
 			CreateComboBox("Груз", CargoChoise);
-			CreateComboBox("Ед. изм", UnitChoise);
+			CreateComboBox("Ед. измерения", UnitChoise);
 
 			CreateTextBox("Количество");
-			CreateTextBox("Количество (Стрх)");
+			CreateTextBox("Застраховано");
 
 			CreateButton("Добавить", CreateInfo);
 			CreateButton("Отмена");
@@ -51,7 +51,7 @@ namespace ConsignmentsMenu
 				var unit = unitChoice.SelectedUnit.Item2;
 				_selectedUnitId = unitChoice.SelectedUnit.Item1;
 
-				var userBox = ComboBoxes["Ед. изм"];
+				var userBox = ComboBoxes["Ед. измерения"];
 				userBox.Items.Clear();
 				userBox.Items.Add(unit);
 				userBox.SelectedIndex = 0;
@@ -66,12 +66,12 @@ namespace ConsignmentsMenu
 					throw new Exception("Груз не выбран");
 
 				if (_selectedUnitId == -1)
-					throw new Exception("Ед. изм. не выбрана");
+					throw new Exception("Ед. измерения не выбраны");
 
 				if (!int.TryParse(TextBoxes["Количество"].Text, out int count))
 					throw new Exception("Количество - некорректный формат");
 
-				if (!int.TryParse(TextBoxes["Количество (Стрх)"].Text, out int s_count))
+				if (!int.TryParse(TextBoxes["Застраховано"].Text, out int s_count))
 					throw new Exception("Застрахованное количество - некорректный формат");
 
 				if(count <= 0)
@@ -86,7 +86,7 @@ namespace ConsignmentsMenu
 				CargoInfo cargoInfo = new CargoInfo()
 				{ 
 					UnitId = _selectedUnitId,
-					UnitName = ComboBoxes["Ед. изм"].SelectedItem.ToString(),
+					UnitName = ComboBoxes["Ед. измерения"].SelectedItem.ToString(),
 					CargoId = _selectedCargoId,
 					CargoName = ComboBoxes["Груз"].SelectedItem.ToString(),
 

@@ -61,3 +61,24 @@ D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ConsignmentsMenu\obj\Debug\ConsignmentsMenu.csproj.CopyComplete
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ConsignmentsMenu\obj\Debug\ConsignmentsMenu.dll
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\ConsignmentsMenu\obj\Debug\ConsignmentsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\ConsignmentsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\ConsignmentsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\ClientsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\ReferencesMenus.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\ClientsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\ReferencesMenus.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\obj\Debug\ConsignmentsMenu.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\obj\Debug\ConsignmentsMenu.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\obj\Debug\ConsignmentsMenu.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\obj\Debug\ConsignmentsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\ConsignmentsMenu\obj\Debug\ConsignmentsMenu.pdb
