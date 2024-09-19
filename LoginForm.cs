@@ -14,7 +14,7 @@ namespace ShippingCompanyManager
 			textBox2.PasswordChar = '*';
 		}
 
-		private void button1_Click(object sender, EventArgs e)
+		private void button1_Click(object sender, EventArgs e) //вход
 		{
 			string login = textBox1.Text;
 			string password = textBox2.Text;
@@ -45,7 +45,7 @@ namespace ShippingCompanyManager
 			}
 		}
 
-		private void button2_Click(object sender, EventArgs e)
+		private void button2_Click(object sender, EventArgs e) //рег
 		{
 			string login = textBox1.Text;
 			string password = textBox2.Text;
@@ -56,7 +56,19 @@ namespace ShippingCompanyManager
                 return;
             }
 
-			try
+            if (textBox1.Text.Length < 3)
+            {
+                MessageCaller.CallErrorMessage("Длина логина не должна быть короче трех симвлов");
+                return;
+            }
+
+            if (textBox2.Text.Length < 3)
+            {
+                MessageCaller.CallErrorMessage("Длина пароля не должна быть короче трех симвлов");
+                return;
+            }
+
+            try
 			{
                 SystemDataManager systemData = new SystemDataManager();
 
