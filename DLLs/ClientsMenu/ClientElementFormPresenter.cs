@@ -125,8 +125,8 @@ namespace ClientsMenu
                 if (clientData.TaxNumber.Length != 10 || !clientData.TaxNumber.All(char.IsDigit))
                     throw new Exception("ИНН юридического лица должен состоять из 10 цифр");
 
-                _registersDataManager.AddClient(clientData);
-				MessageCaller.CallInfomationMessage("Информация изменена");
+                _registersDataManager.EditClient(clientData);
+                MessageCaller.CallInfomationMessage("Информация изменена");
 				Form.Close();
 			}
 			catch (Exception ex)

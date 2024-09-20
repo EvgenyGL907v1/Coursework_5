@@ -43,3 +43,18 @@ D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\DLLsMenu\obj\Debug\Menus.csproj.CopyComplete
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\DLLsMenu\obj\Debug\DLLsMenu.dll
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\DLLsMenu\obj\Debug\DLLsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\obj\Debug\Menus.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\obj\Debug\Menus.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\obj\Debug\Menus.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\obj\Debug\DLLsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\DLLsMenu\obj\Debug\DLLsMenu.pdb

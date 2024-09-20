@@ -5,6 +5,7 @@ using System;
 using System.Windows.Forms;
 using DataExport;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace VesselsMenu
 {
@@ -205,6 +206,11 @@ namespace VesselsMenu
 
                 if (vesselData.ClassId <= 0)
                     throw new Exception("Класс судна не выбран");
+
+                Regex regex = new Regex(@"[А-Яа-яA-Za-z]{1,20} [А-Яа-яA-Za-z]{1,20} [А-Яа-яA-Za-z]{1,20}$");
+                if (!regex.IsMatch(vesselData.CaptainName))
+                    throw new Exception("Неверный формат имени капитана");
+
 
                 _registedDataManager.Edit(vesselData);
                 MessageCaller.CallInfomationMessage("Информация о судне успешно изменена");

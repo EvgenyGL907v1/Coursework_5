@@ -55,3 +55,22 @@ D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\VesselsDocumentMenu\obj\Debug\VesselsDocumentMenu.csproj.CopyComplete
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\VesselsDocumentMenu\obj\Debug\VesselsDocumentMenu.dll
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\DLLs\VesselsDocumentMenu\obj\Debug\VesselsDocumentMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\VesselsDocumentMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\VesselsDocumentMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\DataExport.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\DataExport.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\obj\Debug\VesselsDocumentMenu.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\obj\Debug\VesselsDocumentMenu.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\obj\Debug\VesselsDocumentMenu.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\obj\Debug\VesselsDocumentMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\VesselsDocumentMenu\obj\Debug\VesselsDocumentMenu.pdb

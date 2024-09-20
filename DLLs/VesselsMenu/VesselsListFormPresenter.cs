@@ -24,9 +24,15 @@ namespace VesselsMenu
 				new TableColumn("ClassName", "Класс", TableColumnType.TEXT),
 				new TableColumn("TypeNumber", "Тип", TableColumnType.TEXT),
 				new TableColumn("Date", "Дата постройки", TableColumnType.TEXT),
-			};
-			GridViewPresenter gridViewPresenter = new GridViewPresenter(columns, Tables[TableKey]);
-		}
+
+                new TableColumn("RegNumber", "Номер судна", TableColumnType.TEXT),
+                new TableColumn("CaptainName", "ФИО капитана", TableColumnType.TEXT),
+
+            };
+            GridViewPresenter gridViewPresenter = new GridViewPresenter(columns, Tables[TableKey]);
+            //gridViewPresenter.DataGridView.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
+            
+        }
 
 		protected override void ButtonsInit(ElementsListFormExample formExample)
 		{
@@ -76,8 +82,11 @@ namespace VesselsMenu
 
 			Tables[TableKey].Rows.Clear();
 
-			foreach (var vessel in vessels)
-				Tables[TableKey].Rows.Add(vessel.VesselId, vessel.Name, vessel.ClassName, vessel.TypeName, vessel.CreateDate);
-		}
+            foreach (var vessel in vessels)
+            {
+                DateTime createDate = DateTime.Parse(vessel.CreateDate);
+                Tables[TableKey].Rows.Add(vessel.VesselId, vessel.Name, vessel.ClassName, vessel.TypeName, createDate.ToString("dd.MM.yyyy"), vessel.RegNumber, vessel.CaptainName);
+            }
+        }
 	}
 }

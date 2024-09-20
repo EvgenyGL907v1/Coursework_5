@@ -57,3 +57,19 @@ D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\PresenterContext\obj\Debug\PresenterContext.csproj.CopyComplete
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\PresenterContext\obj\Debug\PresenterContext.dll
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\CoursWork_3.1_BD\PresenterContext\obj\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.ChoiceFormExample.resources
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.ElementFormExample.resources
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.ElementsListFormExample.resources
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.MessageFormExample.resources
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.csproj.GenerateResource.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\PresenterContext\obj\Debug\PresenterContext.pdb

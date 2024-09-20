@@ -31,7 +31,7 @@ namespace PresenterContext
 	{
 		public DataGridView DataGridView { get; private set; }
 
-		public GridViewPresenter(List<TableColumn> columns, DataGridView dataGridView)
+        public GridViewPresenter(List<TableColumn> columns, DataGridView dataGridView)
 		{
 			DataGridView = dataGridView;
 			dataGridView.Columns.Clear();
@@ -49,7 +49,7 @@ namespace PresenterContext
 			newColumn.Name = column.Name;
 			newColumn.HeaderText = column.Header;
 
-			DataGridView.Columns.Add(newColumn);
+            DataGridView.Columns.Add(newColumn);
 		}
 
 

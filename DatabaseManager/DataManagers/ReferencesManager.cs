@@ -79,7 +79,7 @@ namespace DatabaseManager
 
 		public void RemoveUnit(int id)
 		{
-			string command = $"DELETE FROM Units WHERE Id = {id};";
+			string command = $"DELETE FROM Units WHERE UnitId = {id};";
 			Database.ExecuteCommand(command);
 		}
 
