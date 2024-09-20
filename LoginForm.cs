@@ -13,23 +13,23 @@ namespace ShippingCompanyManager
 			InitializeComponent();
 			textBox2.PasswordChar = '*';
 
-			button1_Click(this, EventArgs.Empty);
+			//button1_Click(this, EventArgs.Empty); //для автоввода
 
         }
 
 		private void button1_Click(object sender, EventArgs e) //вход
 		{
-			string login = "admin";//textBox1.Text;
-			string password = "admin";//textBox2.Text;
+			string login = textBox1.Text;
+			string password = textBox2.Text;
 
 
-   //         if ((textBox1.Text == "") || (textBox2.Text == ""))
-			//{
-   //             MessageCaller.CallErrorMessage("Поля не могут быть пустыми");
-			//	return;
-   //         }
+			if ((textBox1.Text == "") || (textBox2.Text == ""))
+			{
+				MessageCaller.CallErrorMessage("Поля не могут быть пустыми");
+				return;
+			}
 
-            try
+			try
 			{
 				SystemDataManager systemData = new SystemDataManager();
 				int userId = systemData.UserAuthorization(login, password);

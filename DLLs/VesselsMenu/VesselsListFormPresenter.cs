@@ -31,7 +31,6 @@ namespace VesselsMenu
             };
             GridViewPresenter gridViewPresenter = new GridViewPresenter(columns, Tables[TableKey]);
             //gridViewPresenter.DataGridView.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
-            
         }
 
 		protected override void ButtonsInit(ElementsListFormExample formExample)

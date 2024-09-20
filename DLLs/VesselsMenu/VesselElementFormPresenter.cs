@@ -69,7 +69,9 @@ namespace VesselsMenu
 			TextBoxes["Номер"].Text = vessel.RegNumber;
 			TextBoxes["ФИО Капитана"].Text = vessel.CaptainName;
 
-			ReferencesManager references = new ReferencesManager();
+            DateTimePickers["Дата постройки"].Value = DateTime.Parse(vessel.CreateDate);
+
+            ReferencesManager references = new ReferencesManager();
 
 			_selectedTypeId = vessel.TypeId;
 			_selectedClassId = vessel.ClassId;

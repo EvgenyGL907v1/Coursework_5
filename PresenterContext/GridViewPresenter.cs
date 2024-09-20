@@ -34,11 +34,11 @@ namespace PresenterContext
         public GridViewPresenter(List<TableColumn> columns, DataGridView dataGridView)
 		{
 			DataGridView = dataGridView;
-			dataGridView.Columns.Clear();
+            dataGridView.Columns.Clear();
 
 			foreach (var column in columns)
 				CreateColumn(column);
-		}
+        }
 
 		private void CreateColumn(TableColumn column)
 		{

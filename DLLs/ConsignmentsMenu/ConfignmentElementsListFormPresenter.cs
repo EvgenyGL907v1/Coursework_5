@@ -22,7 +22,8 @@ namespace ConsignmentsMenu
 				new TableColumn("Id", "#", TableColumnType.TEXT),
 				new TableColumn("Sender", "Отправление", TableColumnType.TEXT),
 				new TableColumn("Прибытие", "Прибытие", TableColumnType.TEXT),
-			};
+                new TableColumn("CustomNumber", "Номер", TableColumnType.TEXT),
+            };
 
 			GridViewPresenter gridCreate = new GridViewPresenter(columns, Tables[TableKey]);
 
@@ -101,7 +102,11 @@ namespace ConsignmentsMenu
 			Tables[TableKey].Rows.Clear();
 
 			foreach (var item in confignments)
-				Tables[TableKey].Rows.Add(item.ConsignmentId, $"{item.SendClientName},{item.SendPortName},{item.DepartDate}",$"{item.ReceivClientName}, {item.ReceivPortName}, {item.ArrivalDate}");
-		}
+			{
+                DateTime DepartDate = DateTime.Parse(item.DepartDate);
+                DateTime ArrivalDate = DateTime.Parse(item.ArrivalDate);
+                Tables[TableKey].Rows.Add(item.ConsignmentId,    $"{item.SendClientName},    {item.SendPortName},    {DepartDate.ToString("dd.MM.yyyy")}", $"{item.ReceivClientName},    {item.ReceivPortName},    {ArrivalDate.ToString("dd.MM.yyyy")}", item.CustomNumber);
+            }
+        }
 	}
 }
