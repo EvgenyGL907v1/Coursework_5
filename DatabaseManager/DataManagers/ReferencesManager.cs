@@ -73,8 +73,8 @@ namespace DatabaseManager
 		{
 			UnitUniqueCheck(name);
 
-			string command = $"UPDATE Units SET Name = \"{name}\" WHERE CargoId = {id};";
-			Database.ExecuteCommand(command);
+			string command = $"UPDATE Units SET Name = \"{name}\" WHERE UnitId = {id};";
+            Database.ExecuteCommand(command);
 		}
 
 		public void RemoveUnit(int id)

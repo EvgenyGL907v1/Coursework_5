@@ -73,3 +73,18 @@ D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая �
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\AboutProgram\obj\Debug\AboutProgram.csproj.CopyComplete
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\AboutProgram\obj\Debug\AboutProgram.dll
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\AboutProgram\obj\Debug\AboutProgram.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\AboutProgram.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\AboutProgram.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\obj\Debug\AboutProgram.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\obj\Debug\AboutProgram.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\obj\Debug\AboutProgram.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\obj\Debug\AboutProgram.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\AboutProgram\obj\Debug\AboutProgram.pdb

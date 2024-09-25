@@ -74,3 +74,22 @@ D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая �
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\CargoDocumentMenu\obj\Debug\CargoDocumentMenu.csproj.CopyComplete
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\CargoDocumentMenu\obj\Debug\CargoDocumentMenu.dll
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DLLs\CargoDocumentMenu\obj\Debug\CargoDocumentMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\CargoDocumentMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\CargoDocumentMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\DataExport.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\DLLsMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\MenuInterface.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\PresenterContext.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\DataExport.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\MenuInterface.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\PresenterContext.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\DLLsMenu.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\obj\Debug\CargoDocumentMenu.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\obj\Debug\CargoDocumentMenu.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\obj\Debug\CargoDocumentMenu.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\obj\Debug\CargoDocumentMenu.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DLLs\CargoDocumentMenu\obj\Debug\CargoDocumentMenu.pdb

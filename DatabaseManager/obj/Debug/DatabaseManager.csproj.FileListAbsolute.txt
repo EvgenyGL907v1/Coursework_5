@@ -25,3 +25,12 @@ D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая �
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DatabaseManager\obj\Debug\DatabaseManager.csproj.CopyComplete
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DatabaseManager\obj\Debug\DatabaseManager.dll
 D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\Новая папка\Coursework_5\DatabaseManager\obj\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DatabaseManager\bin\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DatabaseManager\bin\Debug\DatabaseManager.pdb
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DatabaseManager\bin\Debug\System.Data.SQLite.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DatabaseManager\bin\Debug\System.Data.SQLite.xml
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DatabaseManager\obj\Debug\DatabaseManager.csproj.AssemblyReference.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DatabaseManager\obj\Debug\DatabaseManager.csproj.CopyComplete
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DatabaseManager\obj\Debug\DatabaseManager.dll
+D:\!lessons_archive\5 семестр_2023БД\Курсовая БД\не работают ед изм\Coursework_5\DatabaseManager\obj\Debug\DatabaseManager.pdb
